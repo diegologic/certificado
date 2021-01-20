@@ -1,0 +1,22 @@
+
+@font-face {
+    font-family: exoticia;
+    src: url(../fonts/MadSquire-Regular.otf);
+}
+body{
+  background-color: #ECECEC;
+  width: 100%;
+  height: 100%;
+
+}
+.header{
+  height: 500px;
+  width: 100%;
+  background-color: #D24D57;
+  margin: 0;
+  position: absolute;
+}
+h1{
+  font-family: 'exoticia';
+  color: white;
+}
